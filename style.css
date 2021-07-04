@@ -1,11 +1,52 @@
 body {
   margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 2.9vw;
 }
 
+h2 {
+  font-size: 2vw;
+}
 .orange-color {
   color: orange;
 }
 
 .d-flex {
   display: flex;
+  padding: 0px 40px;
+}
+
+.welcome-info {
+  width: 50%;
+  margin-left: 5%;
+}
+.welcome-info p {
+  text-align: justify;
+  margin-bottom: 30px;
+}
+.welcome-image {
+  width: 50%;
+  margin-left: 5%;
+}
+
+.welcome-image img {
+  max-width: 100%;
+  height: auto;
+}
+.welcome-link {
+  text-decoration: none;
+  padding: 10px 50px;
+  background: linear-gradient(salmon, tomato);
+  border-radius: 10px;
+  color: white;
+}
+
+.welcome-info h4 {
+  font-size: 1.2vw;
+}
+
+h5 {
+  font-size: 1vw;
 }
