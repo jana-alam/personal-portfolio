@@ -68,10 +68,12 @@ footer {
 
 #top-banner {
   background: url(img/top-banner.png) no-repeat;
+  margin-bottom: 150px;
 }
 #dream-big {
   background: url(img/dream-bg.png) no-repeat;
   background-position: bottom right;
+  margin-bottom: 150px;
 }
 
 .experiences {
