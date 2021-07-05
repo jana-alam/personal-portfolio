@@ -1,1 +1,46 @@
-style.css
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 4.1vw;
+}
+
+h2 {
+  font-size: 3vw;
+}
+h3 {
+  font-size: 2.5vw;
+}
+h4 {
+  font-size: 1.3vw;
+}
+h5 {
+  font-size: 1.2vw;
+}
+.orange-color {
+  color: orange;
+}
+
+.section-link {
+  text-decoration: none;
+  font-weight: 700;
+  padding: 10px 40px;
+  background-image: linear-gradient(45deg, salmon, tomato);
+  color: white;
+  border-radius: 5px;
+}
+
+.section-image {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+
+.d-flex {
+  display: flex;
+  padding: 0 20px;
+}
+.half-width {
+  width: 50%;
+}
